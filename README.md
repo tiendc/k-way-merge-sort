@@ -1,1 +1,1 @@
-# k-way-merge-sort
+# k-way-merge-sort / external sort
